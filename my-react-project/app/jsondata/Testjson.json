@@ -1,0 +1,32 @@
+[
+    {
+      "salary": "100,000",
+      "age": "20",
+      "name": "abdo",
+      "id": "1"
+    },
+    {
+      "salary": "5,000",
+      "age": "19",
+      "name": "mohamed",
+      "id": "2"
+    },
+    {
+      "salary": "3,000",
+      "age": "20",
+      "name": "sama",
+      "id": "3"
+    },
+    {
+      "salary": "7,700",
+      "age": "25",
+      "name": "sahed",
+      "id": "4"
+    },
+    {
+      "salary": "50000",
+      "age": "28",
+      "name": "karim",
+      "id": "5"
+    }
+  ]

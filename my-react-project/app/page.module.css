@@ -1,0 +1,20 @@
+.body {
+  background-color: burlywood;
+  height: 100vh;
+}
+.styleProps{
+  height: auto;
+  width:280px;
+  border: solid black 2px ;
+  margin: 10px 10px 10px 3px;
+  padding: 5px;
+}
+.json {
+  height: auto;
+  width: 500px;
+  border: 3px black solid;
+  padding: 5px;
+  margin: 5px;
+  background-color: indigo;
+  border-radius: 5px;
+}
